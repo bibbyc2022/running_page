@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2017-01-07T11:38:20.000Z</time>
+  </metadata>
+  <trk>
+    <name>南昌市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="28.715602643787860870361328125" lon="115.9662155248224735260009765625">
+        <ele>22</ele>
+        <time>2017-01-07T11:38:25.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.71552410535514354705810546875" lon="115.96626858226954936981201171875">
+        <ele>21.3999996185302734375</ele>
+        <time>2017-01-07T11:38:42.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.7154241092503070831298828125" lon="115.9662336297333240509033203125">
+        <ele>21.200000762939453125</ele>
+        <time>2017-01-07T11:39:10.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.71544850058853626251220703125" lon="115.96616447903215885162353515625">
+        <ele>21.3999996185302734375</ele>
+        <time>2017-01-07T11:39:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.71541522443294525146484375" lon="115.96615140326321125030517578125">
+        <ele>21.3999996185302734375</ele>
+        <time>2017-01-07T11:39:48.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

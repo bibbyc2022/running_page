@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2021-12-04T23:29:12.000Z</time>
+  </metadata>
+  <trk>
+    <name>南昌市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="28.7141363136470317840576171875" lon="115.97271610982716083526611328125">
+        <ele>10.6000003814697265625</ele>
+        <time>2021-12-04T23:29:33.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.7141423486173152923583984375" lon="115.9725934825837612152099609375">
+        <ele>10.80000019073486328125</ele>
+        <time>2021-12-04T23:29:35.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.7141178734600543975830078125" lon="115.97248158417642116546630859375">
+        <ele>10.80000019073486328125</ele>
+        <time>2021-12-04T23:29:38.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.71410286985337734222412109375" lon="115.97236775793135166168212890625">
+        <ele>10.80000019073486328125</ele>
+        <time>2021-12-04T23:29:44.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.7140099145472049713134765625" lon="115.97291015088558197021484375">
+        <ele>10.6000003814697265625</ele>
+        <time>2021-12-04T23:29:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.71413019485771656036376953125" lon="115.9729552455246448516845703125">
+        <ele>10.6000003814697265625</ele>
+        <time>2021-12-04T23:29:22.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.7141753733158111572265625" lon="115.97285675816237926483154296875">
+        <ele>10.6000003814697265625</ele>
+        <time>2021-12-04T23:29:29.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.714174367487430572509765625" lon="115.9728449396789073944091796875">
+        <ele>10.6000003814697265625</ele>
+        <time>2021-12-04T23:29:30.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
