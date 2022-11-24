@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
+  pathPrefix: 'running.bibbyc.top', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Bibbyc Running Page',
     siteUrl: 'https://twitter.com/ChenBibby',
